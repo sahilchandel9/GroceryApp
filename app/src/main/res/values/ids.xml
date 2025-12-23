@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvCartProductName" type="id" />
+    <item name="tvCartProductPrice" type="id" />
+    <item name="ivCartProduct" type="id" />
+    <item name="btnIncrease" type="id" />
+    <item name="btnDecrease" type="id" />
+    <item name="btnRemove" type="id" />
+    <item name="recyclerViewCart" type="id" />
+    <item name="tvTotalPrice" type="id" />
+    <item name="btnClearCart" type="id" />
+    <item name="txtCategoryName" type="id" />
+</resources>
